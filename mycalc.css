@@ -1,0 +1,33 @@
+#org-inp{
+    width: 360px ;
+    height: 75px;
+    font-size: 2.2em;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: azure;
+    pointer-events: none;
+
+}
+
+table, th, td {
+    border: 3px solid rgb(178, 180, 23);
+  }
+
+input[type=button]{
+  background-color: rgba(28, 194, 194, 0.596);
+  color: white;
+  padding: 16px 32px; 
+  margin: 4px 2px;
+  border-radius: 8px;
+  
+}
+
+input:hover{
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+
+  
+tr{
+  background-color: black;
+}
